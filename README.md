@@ -9,6 +9,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enenumxela&layout=compact&hide_border=true&bg_color=0D1117&text_color=C9D1D9&custom_title=Most Used Languages" />
 </a>
 
-## My Contribution Graph
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=enenumxela&theme=react-dark&hide_title=true&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![My Contribution Graph](https://activity-graph.herokuapp.com/graph?username=enenumxela&theme=react-dark&custom_title=Contributions%20Graph&hide_border=true&bg_color=0D1117)](https://github.com/enenumxela)
