@@ -1,5 +1,6 @@
 <div align="center">
 	<img src="./banner.png" alt="Alex Munene">
+	<br/>
 	<a href="https://twitter.com/enenumxela">
 		<img src="https://img.shields.io/badge/-@enenumxela-_.svg?style=social&logo=twitter" alt="Twitter">
 	</a>
