@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="./banner.png" alt="Alex Munene">
+	<img src="./github-banner.png" alt="Alex Munene">
 	<br/>
 	<br/>
 	<a href="https://twitter.com/enenumxela">
