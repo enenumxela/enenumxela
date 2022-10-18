@@ -13,11 +13,6 @@
 <a href="https://www.buymeacoffee.com/enenumxela">
 	<img src="https://img.shields.io/badge/-@enenumxela-ff69b4.svg?style=social&color=gray&logo=buy%20me%20a%20coffee" alt="BMC">
 </a>
-<br/>
-<br/>
-<div align="center">
-	<img src="./banner.png" alt="Alex Munene">
-</div>
 
 ## Github Statistics
 
