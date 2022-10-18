@@ -19,4 +19,14 @@
 	<img src="./banner.png" alt="Alex Munene">
 </div>
 
+## Github Statistics
+
+<a href="https://github.com/enenumxela">
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=enenumxela&show_icons=true&count_private=true&line_height=27&custom_title=Github%20Statistics" alt="GitHub Statistics">
+</a>
+<a href="https://github.com/enenumxela">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enenumxela&langs_count=3&custom_title=Top%20Languages" alt="Top Languages">
+</a>
+
+
 
