@@ -43,9 +43,6 @@
 	<img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
 </a>
 <a href="#">
-	<img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
-</a>
-<a href="#">
 	<img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white">
 </a>
 <a href="#">
@@ -55,8 +52,23 @@
 	<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
 </a>
 <a href="#">
+	<img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
+</a>
+<a href="#">
 	<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white">
 </a>
 <a href="#">
+	<img alt="Docker" src="https://img.shields.io/badge/Docker-003F8C.svg?logo=docker&logoColor=white">
+</a>
+<a href="#">
+	<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-316CE6.svg?logo=kubernetes&logoColor=white">
+</a>
+<a href="#">
 	<img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white">
+</a>
+<a href="#">
+	<img alt="Digital Ocean" src="https://img.shields.io/badge/Digital%20Ocean-0069FF.svg?logo=digitalocean&logoColor=white">
+</a>
+<a href="#">
+	<img alt="Linode" src="https://img.shields.io/badge/Linode-14BB60.svg?logo=linode&logoColor=white">
 </a>
