@@ -1,3 +1,6 @@
+
+
+
 ## Github Statistics
 
 <a href="https://github.com/enenumxela">
@@ -10,65 +13,74 @@
 ## Tools & Technologies
 
 <a href="#">
-	<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
+	<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white&style=flat">
 </a>
 <a href="#">
-	<img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
+	<img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white&style=flat">
 </a>
 <a href="#">
-	<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+	<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black&style=flat">
 </a>
 <a href="#">
-	<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-2671E5.svg?logo=typescript&logoColor=white">
+	<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-2671E5.svg?logo=typescript&logoColor=white&style=flat">
 </a>
 <a href="#">
-	<img alt="Go" src="https://img.shields.io/badge/Go-1572B6.svg?logo=go&logoColor=white">
+	<img alt="Go" src="https://img.shields.io/badge/Go-1572B6.svg?logo=go&logoColor=white&style=flat">
 </a>
 <a href="#">
-	<img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
+	<img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white&style=flat">
 </a>
 <a href="#">
-	<img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
+	<img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white&style=flat">
 </a>
 <a href="#">
-	<img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
+	<img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white&style=flat">
 </a>
 <a href="#">
-	<img alt="React.js" src="https://img.shields.io/badge/React.js-2671E5.svg?logo=react&logoColor=white">
+	<img alt="React.js" src="https://img.shields.io/badge/React.js-2671E5.svg?logo=react&logoColor=white&style=flat">
 </a>
 <a href="#">
-	<img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
+	<img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white&style=flat">
 </a>
 <a href="#">
-	<img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
+	<img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white&style=flat">
 </a>
 <a href="#">
-	<img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white">
+	<img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white&style=flat">
 </a>
 <a href="#">
-	<img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
+	<img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white&style=flat">
 </a>
 <a href="#">
-	<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
+	<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white&style=flat">
 </a>
 <a href="#">
-	<img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
+	<img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white&style=flat">
 </a>
 <a href="#">
-	<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white">
+	<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white&style=flat">
 </a>
 <a href="#">
-	<img alt="Docker" src="https://img.shields.io/badge/Docker-003F8C.svg?logo=docker&logoColor=white">
+	<img alt="Docker" src="https://img.shields.io/badge/Docker-003F8C.svg?logo=docker&logoColor=white&style=flat">
 </a>
 <a href="#">
-	<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-316CE6.svg?logo=kubernetes&logoColor=white">
+	<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-316CE6.svg?logo=kubernetes&logoColor=white&style=flat">
 </a>
 <a href="#">
-	<img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white">
+	<img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white&style=flat">
 </a>
 <a href="#">
-	<img alt="Digital Ocean" src="https://img.shields.io/badge/Digital%20Ocean-0069FF.svg?logo=digitalocean&logoColor=white">
+	<img alt="Digital Ocean" src="https://img.shields.io/badge/Digital%20Ocean-0069FF.svg?logo=digitalocean&logoColor=white&style=flat">
 </a>
 <a href="#">
-	<img alt="Linode" src="https://img.shields.io/badge/Linode-14BB60.svg?logo=linode&logoColor=white">
+	<img alt="Linode" src="https://img.shields.io/badge/Linode-14BB60.svg?logo=linode&logoColor=white&style=flat">
+</a>
+
+## Support
+
+<a href="https://www.buymeacoffee.com/enenumxela">
+	<img src="https://img.shields.io/badge/buy%20me%20a%20coffee-%23FFDD00.svg?&style=flat&logo=buy%20me%20a%20coffee&logoColor=black">
+</a>
+<a href="https://github.com/sponsors/enenumxela">
+	<img src="https://img.shields.io/badge/github%20sponsors-%23EA4AAA.svg?&style=flat&logo=github%20sponsors&logoColor=white">
 </a>
