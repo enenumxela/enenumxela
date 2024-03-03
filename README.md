@@ -49,7 +49,7 @@
 	<img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C.svg?logo=prometheus&logoColor=white&style=flat">
 </a>
 <a href="#">
-	<img alt="Grafana" src="https://img.shields.io/badge/Prometheus-F46800.svg?logo=grafana&logoColor=white&style=flat">
+	<img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800.svg?logo=grafana&logoColor=white&style=flat">
 </a>
 
 ## Support
