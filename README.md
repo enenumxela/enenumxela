@@ -1,4 +1,4 @@
-# Hello👋!... Alex (@enenumxela) here!
+# Hello👋!...
 
 <a href="https://github.com/enenumxela">
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=enenumxela&show_icons=true&count_private=true&line_height=27&custom_title=Github%20Statistics&bg_color=0D1117&text_color=C9D1D9&border_color=30363D" alt="GitHub Statistics">
